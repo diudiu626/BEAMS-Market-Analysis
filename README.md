@@ -1,4 +1,5 @@
-🛍️ BEAMS: Market Analysis (2020–2023)
+#🛍️ BEAMS: Market Analysis (2020–2023)
+
 An infographic analysis of BEAMS, a Japanese lifestyle retailer, focusing on financial recovery, digital performance, and customer demographics.
 
 📊 Key Metrics (2023)
