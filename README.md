@@ -22,3 +22,5 @@ Customer segmentation by age and geography.
 
 Cross-brand collaboration strategy (Netflix, Crocs, etc.).
 
+![BEAMS-Market-Analysis](./Infographic_Beams.jpg)
+
